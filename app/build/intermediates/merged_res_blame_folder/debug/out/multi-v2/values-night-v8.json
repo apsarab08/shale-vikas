@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shaalevikas.app-mergeDebugResources-61:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bapsa\\.gradle\\caches\\transforms-3\\ed8a76e3d45a395ef20369cb27cafc0b\\transformed\\jetified-core-splashscreen-1.0.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}
